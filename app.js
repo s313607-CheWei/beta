@@ -12,7 +12,6 @@ const INPUT_SIZE = 640;
 const CLASS_VALUES = {
   0: 100,
   1: 200,
-  2: 300
 };
 
 const CLASS_COLORS = ["#22c55e", "#f97316", "#38bdf8", "#e879f9", "#facc15", "#fb7185"];
